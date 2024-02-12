@@ -19,6 +19,6 @@ public class Rectangle implements Shape{
 
     @Override
     public void calculateArea() {
-        System.out.println(length*width);
+        System.out.println("Area: " + length*width);
     }
 }
