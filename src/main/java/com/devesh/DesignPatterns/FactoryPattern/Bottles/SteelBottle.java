@@ -1,4 +1,4 @@
-package com.devesh.DesignPatterns.FactoryPattern.Shoes;
+package com.devesh.DesignPatterns.FactoryPattern.Bottles;
 
 public class SteelBottle implements Bottle {
     @Override
